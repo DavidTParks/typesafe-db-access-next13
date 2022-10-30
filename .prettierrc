@@ -1,0 +1,12 @@
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "printWidth": 100,
+  "singleQuote": true,
+  "tabWidth": 4,
+  "trailingComma": "all",
+  "endOfLine": "auto",
+  "semi": true,
+  "importOrder": ["<THIRD_PARTY_MODULES>", "^[./]"],
+  "importOrderSortSpecifiers": true
+}
