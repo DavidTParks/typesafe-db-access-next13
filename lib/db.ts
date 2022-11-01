@@ -1,4 +1,4 @@
-import { Game } from '@prisma/client';
+import { Game } from '@prisma/client/edge';
 import { calcCrow } from 'helpers/geoLocation';
 import { Kysely } from 'kysely';
 import { PlanetScaleDialect } from 'kysely-planetscale';
